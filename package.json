@@ -19,7 +19,12 @@
   "homepage": "https://github.com/ToshinoriIzumi/typescript-sample-hangman#readme",
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
+    "@types/figlet": "^1.5.8",
     "@types/node": "^20.12.12",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0"
   }
 }

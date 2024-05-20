@@ -1,0 +1,25 @@
+{
+  "name": "typescript-sample-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/hangman.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToshinoriIzumi/typescript-sample-hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToshinoriIzumi/typescript-sample-hangman/issues"
+  },
+  "homepage": "https://github.com/ToshinoriIzumi/typescript-sample-hangman#readme",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/node": "^20.12.12",
+    "typescript": "^5.2.2"
+  }
+}
